@@ -1,0 +1,309 @@
+.headings {
+    display: flex;
+    gap: 6%;
+    padding-left: 5%;
+          }
+
+
+
+.square{
+      width: 700px;
+      background-color: #474747;
+      height: 500px;
+      right: 0;
+      top: 0%;
+      border-radius: 50px;
+      transform: rotate(-35deg);
+      z-index: -1;
+      position: absolute;
+      margin-top: -10%;
+      margin-right: -10%;
+      overflow: hidden;
+      margin-left: 2%;
+        }        
+
+.category{
+    display: flex;
+    gap: 20%;
+    padding-top: 1%;
+    padding-left: 20%;
+    cursor: pointer;
+         }
+
+#icons {
+      padding-left: 30%;
+      padding-top: 2%;
+      justify-content: space-between;
+      gap: 20%;
+      color: aliceblue;
+       }
+
+.sentence {
+      padding-left: 30%;
+      padding-top: 8%;
+      margin-left: 10%;
+          }
+
+.elevate {
+      font-size: x-large;
+        }
+
+.big {
+     font-size: xx-large;
+     }
+
+
+#intro {
+      margin-top: 12%;
+      display: flex;
+       }
+
+#first {
+      display: flex;
+      gap: 10%;
+      margin-left: 10%;
+       }
+
+.button {
+    background: rgb(112, 110, 110);
+    border: none;
+    border-radius: 30px;
+    padding: 9px;
+    color: white;
+    cursor: pointer;
+    margin:9px;
+    width: 8%;
+    font-size: 20px;
+       }
+
+#align {
+    display: flex;
+    gap: 70px;
+    /* justify-content: space-between; */
+      }
+
+.startnow {
+            cursor: pointer;
+            padding: 1.3%;
+            width: 10%;
+            font-size: medium;
+            border-radius: 50px;
+            background-color: #474747;
+            color: white;
+            font-family: 'poppins';
+           border-width: 0cap;
+        }
+
+
+#numbers {
+    display: flex;
+    gap: 5%;
+    padding-left: 4%;
+    padding-top: 2%;
+    align-content: center;
+    margin-bottom: 3%;
+         }
+
+.num {
+    font-size: xx-large;
+    margin: 0% auto;
+         }
+
+#items {
+     display: flex;
+     gap: 8%;
+     margin: 0% auto;
+       }
+
+#names {
+     display: flex;
+     gap: 10%;
+     margin-top: 3%;
+     margin-bottom:6%;
+     margin-left: 3%;
+       }
+
+#rates {
+     display: flex;
+     gap: 47%;
+     margin-left: 2%;
+       }
+
+#vases {
+      display: flex;
+      gap: 10%;
+       }
+
+#ceramics {
+       display: flex;
+       gap: 2%;
+       padding-left: 0%;
+          }
+
+#dollars {
+       display: flex;
+       gap: 10%;
+       margin-left: 3%;
+       margin-bottom: 5%;
+         }
+
+#arrangement {
+       display: flex;
+       gap: 10%;
+       margin-top: 10%;
+       margin-left: 10%;
+            }
+
+#promotions {
+         margin-top: 8%;
+}
+
+#instore {
+      margin-top: 8%;
+}
+
+.space {
+      font-size: xx-large;
+       }
+
+#home {
+      margin-left: 30%;
+      }
+
+.trendy {
+        font-size: xx-large;
+        }
+
+.shopbutton {
+    background: white;
+    border: 2px solid;
+    border-radius: 30px;
+    padding: 15px;
+    color: rgb(0, 0, 0);
+    cursor: pointer;
+    margin:20px;
+    width: 10%;
+    font-size: 13px;
+           }
+
+.sbutton {
+        background: white;
+        border: 2px solid;
+        border-radius: 30px;
+        padding: 15px;
+        color: rgb(0, 0, 0);
+        cursor: pointer;
+        margin:20px;
+        width: 24%;
+        font-size: 13px;
+           }
+
+#online {
+      display: flex;
+       gap: 10%;
+       margin-top: 10%;
+       margin-left: 10%;
+       margin-bottom: 2%;
+        }
+
+.shbutton{
+      background: white;
+      border: 2px solid;
+      border-radius: 30px;
+      padding: 15px;
+      color: rgb(0, 0, 0);
+      cursor: pointer;
+      margin:20px;
+      width: 24%;
+      font-size: 13px;
+     }
+
+
+
+.buy {
+    font-size: x-large;
+     }
+
+#gifts {
+      display: flex;
+      gap: 10%;
+      padding-bottom: 5%;
+      margin-left: 2%;
+       }  
+
+.word {
+    display: inline-block;
+
+     }
+
+#pieces {
+       display: flex;
+       row-gap: 15%;
+        }
+
+#reviews {
+      align-content: center;
+      margin-left: 35%;
+         }
+
+#arthur {
+      align-content: center;
+      margin-left: 10%;
+        }
+
+#ap {
+   display: flex;
+   padding-bottom: 5%;
+   align-content: center;
+   margin: 0% auto;
+    }
+
+#offer {
+      display: flex;
+      display: inline-block;
+      padding-left: 40%;
+      padding-bottom: 3%;
+       }
+#parker {
+    padding-left: 0%;
+
+}
+#info {
+      display: flex;
+      gap: 10%;
+      margin: 0% auto;
+      align-content: center;
+      }
+
+#logonames {
+        display: flex;
+        gap: 8%;
+        align-content: center;
+        margin-left: 5%;
+        margin-bottom: 3%;
+           } 
+           
+#ending {
+       display: flex;
+       gap: 70%;
+       margin-top: 3%;
+        }
+
+.video{
+      display: inline;
+      margin-left: 50px;
+}
+
+#play {
+      margin:  30px ;
+      padding: 20px;
+      background-color: rgb(192, 191, 191);
+      border-radius: 10px
+      }
+
+
+
+
+    
+
+
